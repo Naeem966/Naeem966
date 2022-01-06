@@ -13,6 +13,13 @@
 
 - 💬 Ask me about **ML and DL, Tensorflow, OpenCV, Keras, Flask, Pandas, SciKit learn**
 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<Python>&logoColor=white&color=#0017FF)
+![](https://img.shields.io/badge/AI-Automation-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#f39c12)
+![](https://img.shields.io/badge/Machine-Learning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#7fb3d5)
+![](https://img.shields.io/badge/Deep-Learning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#FFA07A)
+
+
 - 📫 How to reach me **naeem.uoh@gmail.com**
 
 - ⚡ Fun fact **I think Python is Everything for me! 😍 😁**
