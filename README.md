@@ -1,7 +1,7 @@
 
 <img align="right" alt="Coding" width="1000" src="https://i.pinimg.com/originals/75/02/25/7502258841e30f0455250de9873f5e30.jpg">
 <h1 align="center">Hi 👋, I'm Naeem Ahmed</h1>
-<h3 align="center">A passionate AI expert from Pakistan</h3>
+<h3>A passionate AI expert from Pakistan</h3>
 
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1791775/screenshots/6832881/___.gif">
