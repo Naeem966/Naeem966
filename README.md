@@ -4,7 +4,7 @@
 <h3 align="center">A passionate AI expert from Pakistan</h3>
 
 
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1791775/screenshots/6832881/___.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1791775/screenshots/6832881/___.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naeem966&label=Profile%20views&color=0e75b6&style=flat" alt="naeem966" /> </p>
 
