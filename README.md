@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naeem966&" alt="naeem966" /></p>
+<h1><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naeem966&" alt="naeem966" /></h1>
 <h1 align="center">Hi 👋, I'm Naeem Ahmed</h1>
 <h3 align="center">A passionate AI expert from Pakistan</h3>
 
