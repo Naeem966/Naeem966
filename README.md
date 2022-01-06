@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/75/02/25/7502258841e30f0455250de9873f5e30.jpg">
+<img align="right" alt="Coding" width="1000" src="https://i.pinimg.com/originals/75/02/25/7502258841e30f0455250de9873f5e30.jpg">
 <h1 align="center">Hi 👋, I'm Naeem Ahmed</h1>
 <h3 align="center">A passionate AI expert from Pakistan</h3>
 
