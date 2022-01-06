@@ -11,7 +11,7 @@
 
 - 👨‍💻 My current projects is available at [http://naeemahmed.pythonanywhere.com/](http://naeemahmed.pythonanywhere.com/)
 
-- 💬 Ask me about **ML and DL, IOT Trust Management, Information Sceurity, Tensorflow, OpenCV, Keras, Flask, Pandas, SciKit learn**
+- 💬 Ask me about **ML and DL, Tensorflow, OpenCV, Keras, Flask, Pandas, SciKit learn**
 
 - 📫 How to reach me **naeem.uoh@gmail.com**
 
