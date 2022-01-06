@@ -7,15 +7,11 @@
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning [Cervical Cancer Disease Predictor](http://naeemahmed.pythonanywhere.com/)
 
-- 🌱 I’m currently learning **currently_learning**
-
 - 👨‍💻 All of my projects are available at [http://naeemahmed.pythonanywhere.com/](http://naeemahmed.pythonanywhere.com/)
 
 - 💬 Ask me about **ML and DL, Tensorflow, OpenCV, Keras, Flask, Pandas, SciKit learn**
 
 - 📫 How to reach me **naeem.uoh@gmail.com**
-
-- 📄 Know about my experiences [resume_link](resume_link)
 
 - ⚡ Fun fact **I think Python is Everything for me! 😍 😁**
 
