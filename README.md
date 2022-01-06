@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="200" src="https://media-exp1.licdn.com/dms/image/C5616AQEirxLENwyb6g/profile-displaybackgroundimage-shrink_350_1400/0/1641455906576?e=1646870400&v=beta&t=6hEjmZLAGNZ2g3goR8d-e4BIYfyNkevZKssb4vNwmaE">
+<img align="right" alt="Coding" width="500" src="https://media-exp1.licdn.com/dms/image/C5616AQEirxLENwyb6g/profile-displaybackgroundimage-shrink_350_1400/0/1641455906576?e=1646870400&v=beta&t=6hEjmZLAGNZ2g3goR8d-e4BIYfyNkevZKssb4vNwmaE">
 <h1 align="center">Hi 👋, I'm Naeem Ahmed</h1>
 <h3 align="center">A passionate AI expert from Pakistan</h3>
 
