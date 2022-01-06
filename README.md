@@ -1,7 +1,7 @@
 
 <img align="right" alt="Coding" width="1000" src="https://i.pinimg.com/originals/75/02/25/7502258841e30f0455250de9873f5e30.jpg">
 <h1>Hi 👋, I'm Naeem Ahmed</h1>
-<h3>A passionate AI expert from Pakistan</h3>
+<h3>A passionate AI enthusiast from Pakistan</h3>
 
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1791775/screenshots/6832881/___.gif">
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning [Cervical Cancer Disease Predictor](http://naeemahmed.pythonanywhere.com/)
 
-- 👨‍💻 All of my projects are available at [http://naeemahmed.pythonanywhere.com/](http://naeemahmed.pythonanywhere.com/)
+- 👨‍💻 My current projects is available at [http://naeemahmed.pythonanywhere.com/](http://naeemahmed.pythonanywhere.com/)
 
-- 💬 Ask me about **ML and DL, Tensorflow, OpenCV, Keras, Flask, Pandas, SciKit learn**
+- 💬 Ask me about **ML and DL, IOT Trust Management, Information Sceurity, Tensorflow, OpenCV, Keras, Flask, Pandas, SciKit learn**
 
 - 📫 How to reach me **naeem.uoh@gmail.com**
 
