@@ -1,6 +1,9 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://media-exp1.licdn.com/dms/image/C5616AQEirxLENwyb6g/profile-displaybackgroundimage-shrink_350_1400/0/1641455906576?e=1646870400&v=beta&t=6hEjmZLAGNZ2g3goR8d-e4BIYfyNkevZKssb4vNwmaE)
+
 <h1 align="center">Hi 👋, I'm Naeem Ahmed</h1>
 <h3 align="center">A passionate AI expert from Pakistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1791775/screenshots/6832881/___.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naeem966&label=Profile%20views&color=0e75b6&style=flat" alt="naeem966" /> </p>
 
