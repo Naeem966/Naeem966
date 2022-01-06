@@ -1,4 +1,5 @@
 
+<img align="right" alt="Coding" width="200" src="https://media-exp1.licdn.com/dms/image/C5616AQEirxLENwyb6g/profile-displaybackgroundimage-shrink_350_1400/0/1641455906576?e=1646870400&v=beta&t=6hEjmZLAGNZ2g3goR8d-e4BIYfyNkevZKssb4vNwmaE">
 <h1 align="center">Hi 👋, I'm Naeem Ahmed</h1>
 <h3 align="center">A passionate AI expert from Pakistan</h3>
 
@@ -18,7 +19,7 @@
 - 📫 How to reach me **naeem.uoh@gmail.com**
 
 - ⚡ Fun fact **I think Python is Everything for me! 😍 😁**
-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
