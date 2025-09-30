@@ -1,42 +1,69 @@
+<img align="right" alt="AI Developer" width="400" src="https://i.pinimg.com/originals/75/02/25/7502258841e30f0455250de9873f5e30.jpg" />
 
-<img align="right" alt="Coding" width="1000" src="https://i.pinimg.com/originals/75/02/25/7502258841e30f0455250de9873f5e30.jpg">
-<h1>Hi 👋, I'm Naeem Ahmed</h1>
-<h3>A passionate AI developer from Pakistan</h3>
+# Hi 👋, I'm Naeem Ahmed
+### A passionate AI developer from Pakistan
 
+<img align="right" alt="Coding Animation" width="200" src="https://cdn.dribbble.com/users/1791775/screenshots/6832881/___.gif" />
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1791775/screenshots/6832881/___.gif">
+**🔭 Currently working on:**  
+[Unsupervised Person Reidentification](http://naeemahmed.pythonanywhere.com/)
 
+**👨‍💻 Projects:**  
+Explore my latest work at [http://naeemahmed.pythonanywhere.com/](http://naeemahmed.pythonanywhere.com/)
 
-- 🔭 I’m currently working on Machine Learning and Deep Learning [Cervical Cancer Disease Predictor](http://naeemahmed.pythonanywhere.com/)
+**💬 Ask me about:**  
+*ML, DL, TensorFlow, OpenCV, Keras, Flask, Pandas, Scikit-learn*
 
-- 👨‍💻 My current projects is available at [http://naeemahmed.pythonanywhere.com/](http://naeemahmed.pythonanywhere.com/)
+**📫 How to reach me:**  
+[naeem.uoh@gmail.com](mailto:naeem.uoh@gmail.com)
 
-- 💬 Ask me about **ML and DL, Tensorflow, OpenCV, Keras, Flask, Pandas, SciKit learn**
+**⚡ Fun fact:**  
+_I think Python is everything for me! 😍😁_
 
-- 📫 How to reach me **naeem.uoh@gmail.com**
+---
 
-- ⚡ Fun fact **I think Python is Everything for me! 😍 😁**
+## 🛠️ Skills & Technologies
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<Python>&logoColor=white&color=#0017FF)
-![](https://img.shields.io/badge/AI-Automation-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#f39c12)
-![](https://img.shields.io/badge/Machine-Learning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#7fb3d5)
-![](https://img.shields.io/badge/Deep-Learning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#FFA07A)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0017FF)
+![AI Automation](https://img.shields.io/badge/AI-Automation-informational?style=flat&logo=automattic&logoColor=white&color=f39c12)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-informational?style=flat&logo=scikit-learn&logoColor=white&color=7fb3d5)
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-informational?style=flat&logo=tensorflow&logoColor=white&color=FFA07A)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/naeem_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naeem_ai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/naeem-ahmed-9810921a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naeem-ahmed-9810921a0/" height="30" width="40" /></a>
-<a href="https://kaggle.com/naeem78ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="naeem78ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/nrose96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nrose96" height="30" width="40" /></a>
-<a href="https://instagram.com/naeemahmed2735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naeemahmed2735" height="30" width="40" /></a>
-</p>
+**Frameworks & Libraries:**  
+![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg) ![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg) ![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg) ![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) ![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg) ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Other Tools:**  
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ![Matlab](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naeem966&show_icons=true&locale=en&layout=compact" alt="naeem966" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naeem966&show_icons=true&locale=en" alt="naeem966" /></p>
+## 📌 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naeem966&" alt="naeem966" /></p>
+- [MATR-PersonReid](https://github.com/Naeem966/MATR-PersonReid): Multi-attribute transfer re-identification for person search.
+- [Uncertanity_Aware_Person_Reid](https://github.com/Naeem966/Uncertanity_Aware_Person_Reid): Uncertainty-aware deep learning for robust person re-identification.
+- [Quiz_App](https://github.com/Naeem966/Quiz_App): Web-based quiz application using Flask and Python.
+- [Hate_Speach_davidson](https://github.com/Naeem966/Hate_Speach_davidson): Hate speech detection using NLP and ML.
+- [Person_ReID](https://github.com/Naeem966/Person_ReID): Person re-identification algorithms with deep learning.
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=naeem966&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naeem966&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naeem966&)
+
+---
+
+## 🌐 Connect with me
+
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/naeem_ai)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/naeem-ahmed-9810921a0/)
+[![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://kaggle.com/naeem78ahmed)
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/nrose96)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/naeemahmed2735)
+
+---
+
+_Thank you for visiting my profile!_
