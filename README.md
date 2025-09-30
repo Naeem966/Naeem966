@@ -1,69 +1,58 @@
-<img align="right" alt="AI Developer" width="400" src="https://i.pinimg.com/originals/75/02/25/7502258841e30f0455250de9873f5e30.jpg" />
+<img align="right" alt="AI Developer" width="200" src="https://i.pinimg.com/originals/75/02/25/7502258841e30f0455250de9873f5e30.jpg" />
 
-# Hi 👋, I'm Naeem Ahmed
-### A passionate AI developer from Pakistan
+# Naeem Ahmed
+### AI & Machine Learning Developer Specializing in Computer Vision and Deep Learning
 
-<img align="right" alt="Coding Animation" width="200" src="https://cdn.dribbble.com/users/1791775/screenshots/6832881/___.gif" />
-
-**🔭 Currently working on:**  
-[Unsupervised Person Reidentification](http://naeemahmed.pythonanywhere.com/)
-
-**👨‍💻 Projects:**  
-Explore my latest work at [http://naeemahmed.pythonanywhere.com/](http://naeemahmed.pythonanywhere.com/)
-
-**💬 Ask me about:**  
-*ML, DL, TensorFlow, OpenCV, Keras, Flask, Pandas, Scikit-learn*
-
-**📫 How to reach me:**  
-[naeem.uoh@gmail.com](mailto:naeem.uoh@gmail.com)
-
-**⚡ Fun fact:**  
-_I think Python is everything for me! 😍😁_
+I’m an AI developer from Pakistan with expertise in building innovative solutions using machine learning, deep learning, and computer vision. I’m passionate about leveraging Python and modern frameworks to solve complex problems.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0017FF)
-![AI Automation](https://img.shields.io/badge/AI-Automation-informational?style=flat&logo=automattic&logoColor=white&color=f39c12)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-informational?style=flat&logo=scikit-learn&logoColor=white&color=7fb3d5)
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-informational?style=flat&logo=tensorflow&logoColor=white&color=FFA07A)
+### Programming Languages
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=matlab&logoColor=white)
 
-**Frameworks & Libraries:**  
-![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg) ![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg) ![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg) ![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) ![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg) ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
+### Frameworks & Libraries
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-**Other Tools:**  
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ![Matlab](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
+### Tools
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-- [MATR-PersonReid](https://github.com/Naeem966/MATR-PersonReid): Multi-attribute transfer re-identification for person search.
-- [Uncertanity_Aware_Person_Reid](https://github.com/Naeem966/Uncertanity_Aware_Person_Reid): Uncertainty-aware deep learning for robust person re-identification.
-- [Quiz_App](https://github.com/Naeem966/Quiz_App): Web-based quiz application using Flask and Python.
-- [Hate_Speach_davidson](https://github.com/Naeem966/Hate_Speach_davidson): Hate speech detection using NLP and ML.
-- [Person_ReID](https://github.com/Naeem966/Person_ReID): Person re-identification algorithms with deep learning.
+- **[MATR-PersonReid](https://github.com/Naeem966/MATR-PersonReid)**: A multi-attribute transfer framework for person re-identification, enhancing search accuracy in surveillance systems.
+- **[Uncertainty-Aware Person ReID](https://github.com/Naeem966/Uncertanity_Aware_Person_Reid)**: A deep learning model for robust person re-identification under uncertainty, improving reliability in real-world scenarios.
+- **[Quiz App](https://github.com/Naeem966/Quiz_App)**: A web-based quiz application built with Flask and Python for interactive learning.
+- **[Hate Speech Detection](https://github.com/Naeem966/Hate_Speach_davidson)**: An NLP-based model to detect hate speech using machine learning techniques.
+- **[Person ReID](https://github.com/Naeem966/Person_ReID)**: Advanced person re-identification algorithms leveraging deep learning for enhanced tracking.
+
+*Explore more at [naeemahmed.pythonanywhere.com](https://naeemahmed.pythonanywhere.com/)*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=naeem966&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naeem966&show_icons=true&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naeem966&)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naeem966&show_icons=true&locale=en&theme=neutral)
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/naeem_ai)
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/naeem-ahmed-9810921a0/)
-[![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://kaggle.com/naeem78ahmed)
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/nrose96)
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/naeemahmed2735)
+- [LinkedIn](https://www.linkedin.com/in/naeem-ahmed-9810921a0/)
+- [Twitter](https://twitter.com/naeem_ai)
+- [Kaggle](https://kaggle.com/naeem78ahmed)
+- [Email](mailto:naeem.uoh@gmail.com)
 
 ---
 
-_Thank you for visiting my profile!_
+*Thank you for visiting my profile! Let’s connect to build cutting-edge AI solutions.*
